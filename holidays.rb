@@ -1,4 +1,4 @@
-
+# Asks user their favorite season and tells them the most popular Holiday in that season
 holiday_array= "Christmas", "Easter", "The Fourth of July", "Halloween"
 
 print "Enter your favorite season (Winter, Spring, Summer, Fall): "
