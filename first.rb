@@ -7,3 +7,14 @@ cups = gets.chomp
 cups= cups.to_i
 ounces= cups * 8
 puts "That is #{ounces} ounces"
+
+
+
+
+
+
+
+
+
+
+
